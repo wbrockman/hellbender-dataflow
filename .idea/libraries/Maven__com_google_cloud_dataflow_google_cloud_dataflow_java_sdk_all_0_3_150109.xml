@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.cloud.dataflow:google-cloud-dataflow-java-sdk-all:0.3.150109">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/cloud/dataflow/google-cloud-dataflow-java-sdk-all/0.3.150109/google-cloud-dataflow-java-sdk-all-0.3.150109.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/cloud/dataflow/google-cloud-dataflow-java-sdk-all/0.3.150109/google-cloud-dataflow-java-sdk-all-0.3.150109-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/cloud/dataflow/google-cloud-dataflow-java-sdk-all/0.3.150109/google-cloud-dataflow-java-sdk-all-0.3.150109-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
